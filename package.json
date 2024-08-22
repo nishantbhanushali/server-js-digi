@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "chaiandcode",
+  "version": "1.0.0",
+  "description": "a simple manager for chai",
+  "main": "server-node.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "nodemon" : "nodemon server.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "nishant bhanushali",
+  "license": "ISC"
+}
